@@ -1,0 +1,15 @@
+body {
+  background-color: purple;
+}
+
+div {
+  background-color: yellow;
+}
+
+#first {
+  color: white; 
+}
+
+.mylabel { 
+  padding: 20px;
+}
